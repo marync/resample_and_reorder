@@ -1,0 +1,2 @@
+phenotype	transformation	trait	file
+Abundance	TwoStateFractionFolded	Folding	results/GB1/827/all_fitness.txt

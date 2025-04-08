@@ -1,0 +1,2 @@
+phenotype	transformation	trait	file
+Abundance	SumOfSigmoids	Folding	results/fosjun/325/all_fitness_0.txt
